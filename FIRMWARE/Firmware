@@ -1,0 +1,5 @@
+/Firmware
+No custom firmware. Device runs Raspberry Pi OS Lite with a custom UI.
+
+Firmware present (even if untested)
+Standard Raspberry Pi bootloader firmware present. No additional firmware.

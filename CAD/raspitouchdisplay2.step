@@ -12,9 +12,9 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ 'RaspiTouchDisplay2.step',
-/* time_stamp */ '2024-12-28T11:36:26Z',
-/* author */ ('Iain White'),
-/* organization */ (''),
+/* time_stamp */ '2025-12-8T09:12:26Z',
+/* author */ ('Marcos Naisbitt'),
+/* organization */ ('Hackclub'),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
 /* originating_system */ 'Autodesk Translation Framework v13.20.0.188',
 
@@ -28451,3 +28451,4 @@ SOLID_ANGLE_UNIT()
 #27611=COLOUR_RGB('ABS (White)',0.964705882352941,0.964705882352941,0.952941176470588);
 ENDSEC;
 END-ISO-10303-21;
+
